@@ -11,4 +11,6 @@ This repository contains program to display Grid in ALV.
 # Result
 
 ![Screenshot (79)](https://github.com/user-attachments/assets/78f55d5e-3a28-4aaa-ac3e-6c89b23ef33e)
-![Screenshot (80)](https://github.com/user-attachments/assets/8f7bebda-7e75-439c-a514-0fa80433e1e8)
+![Screenshot (88)](https://github.com/user-attachments/assets/2899d47b-ad16-4982-84a3-24558c6f1a82)
+
+
